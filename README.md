@@ -3,7 +3,7 @@ Here we go
 Links to Github accounts
 
 1.	Antonio	Bjelobrk -
-2.	Bediz	Türkyılmaz -
+2.	Bediz	Türkyılmaz - https://github.com/Bedizz
 3.	Christina	Vekri - https://github.com/islandarber
 4.	Ciaran Patrick	Jones - 
 5.	Lena	Bultmann - https://github.com/AnyLena
