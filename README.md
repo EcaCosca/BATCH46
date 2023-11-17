@@ -7,7 +7,7 @@ Links to Github accounts
 3.	Christina	Vekri - https://github.com/islandarber
 4.	Ciaran PatrickJones - https://github.com/shifty-moose
 5.	Lena	Bultmann - https://github.com/AnyLena
-6.	Luis Alejandro	Moreno Sanguino - 
+6.	Luis Alejandro	Moreno Sanguino - https://github.com/alejowoods
 7.	Moustafa Nady Abdelsalam	Nady - https://github.com/Ultmasher 
 8.	Nestor Xavier	Iriondo Hilario - https://github.com/nestoririondo
 9.	Subaru	Goto - 
