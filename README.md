@@ -11,5 +11,5 @@ Links to Github accounts
 7.	Moustafa Nady Abdelsalam	Nady - 
 8.	Nestor Xavier	Iriondo Hilario - 
 9.	Subaru	Goto - 
-10.	Tania	Boterman - 
+10.	Tania	Boterman - https://github.com/TeeAtlas
 11.	Tonio Jasper	Süßdorf - 
