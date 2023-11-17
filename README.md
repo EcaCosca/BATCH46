@@ -2,7 +2,7 @@ Here we go
 
 Links to Github accounts
 
-1.	Antonio	Bjelobrk -
+1.	Antonio	Bjelobrk - https://github.com/gizy95
 2.	Bediz	Türkyılmaz - https://github.com/Bedizz
 3.	Christina	Vekri - https://github.com/islandarber
 4.	Ciaran PatrickJones - https://github.com/shifty-moose
