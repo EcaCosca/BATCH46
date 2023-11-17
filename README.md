@@ -5,7 +5,7 @@ Links to Github accounts
 1.	Antonio	Bjelobrk -
 2.	Bediz	Türkyılmaz - https://github.com/Bedizz
 3.	Christina	Vekri - https://github.com/islandarber
-4.	Ciaran Patrick	Jones - https://github.com/shifty-moose
+4.	Ciaran PatrickJones - https://github.com/shifty-moose
 5.	Lena	Bultmann - https://github.com/AnyLena
 6.	Luis Alejandro	Moreno Sanguino - 
 7.	Moustafa Nady Abdelsalam	Nady - 
