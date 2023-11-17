@@ -10,7 +10,7 @@ Links to Github accounts
 6.	Luis Alejandro	Moreno Sanguino - https://github.com/alejowoods
 7.	Moustafa Nady Abdelsalam	Nady - https://github.com/Ultmasher 
 8.	Nestor Xavier	Iriondo Hilario - https://github.com/nestoririondo
-9.	Subaru	Goto - 
+9.	Subaru	Goto - https://github.com/Subaru-Goto
 10.	Tania	Boterman - 
 11.	Tonio Jasper	Süßdorf -
 12.	Enrique Coscarelli - 
