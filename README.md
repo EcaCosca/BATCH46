@@ -4,7 +4,7 @@ Links to Github accounts
 
 1.	Antonio	Bjelobrk -
 2.	Bediz	Türkyılmaz -
-3.	Christina	Vekri - 
+3.	Christina	Vekri - https://github.com/islandarber
 4.	Ciaran Patrick	Jones - 
 5.	Lena	Bultmann - 
 6.	Luis Alejandro	Moreno Sanguino - 
